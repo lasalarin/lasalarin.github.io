@@ -14,7 +14,7 @@ section,
 .container,
 .container-fluid {
   position: relative;
-  word-wrap: normal; }
+  word-wrap: normal }
 
 a.mbr-iconfont:hover {
   text-decoration: none; }
@@ -104,7 +104,7 @@ section {
 
 @media (max-width: 2400px) {
   .align-left, .align-center, .align-right, .mbr-section-btn, .mbr-section-title {
-    text-align: center; 
+    text-align: left; 
 	letter-spacing: 5px;} }
 /*! Font-weight  */
 .mbr-light {
