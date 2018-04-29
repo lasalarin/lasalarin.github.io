@@ -2420,43 +2420,6 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.cid-qPDwYxFyAc {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #333333;
-}
-.cid-qPDwYxFyAc h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-qPDwYxFyAc .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-qPDwYxFyAc .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qPDwYxFyAc .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-qPDwYxFyAc ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-qPDwYxFyAc path {
-  stroke: #ff008d;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-qPDwYxFyAc .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
-.cid-qPDwYxFyAc .mbr-section-title B {
-  color: #ff008d;
-}
 .cid-qPYJDhoLDg {
   padding-top: 60px;
   padding-bottom: 90px;
@@ -2573,24 +2536,44 @@ body {
   text-align: center;
 }
 .cid-qPYJDhoLDg .mbr-timeline-title {
-  color: #ff008d;
+  color: #f97942;
 }
 .cid-qPYJDhoLDg .mbr-timeline-text {
   color: #ffffff;
 }
-.cid-qQyaZL8T6Q {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: linear-gradient(0deg, #fbac7f, #fdf400);
+.cid-qPYJDhoLDg .mbr-section-subtitle B {
+  color: #f97942;
 }
-.cid-qQyaZL8T6Q .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ff3366;
+.cid-qQACoX2cQY {
+  padding-top: 45px;
+  padding-bottom: 90px;
+  background-color: #333333;
 }
-.cid-qQyaZL8T6Q .social-list a:focus {
-  text-decoration: none;
+.cid-qQACoX2cQY .title {
+  margin-bottom: 2rem;
 }
-.cid-qQyaZL8T6Q H2 {
+.cid-qQACoX2cQY .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qQACoX2cQY a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qQACoX2cQY a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qQACoX2cQY .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qQACoX2cQY .input-group-btn {
+  display: block;
   text-align: center;
-  color: #ff008d;
+}
+.cid-qQACoX2cQY H2 {
+  color: #f97942;
+}
+.cid-qQACoX2cQY LABEL {
+  color: #ffffff;
 }
