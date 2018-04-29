@@ -1,0 +1,12 @@
+@font-face {
+   font-family: 'SuisseIntlCond-Semibold';
+   src: url('SuisseIntlCond-Semibold/font.ttf');
+}
+@font-face {
+   font-family: 'SuisseIntlCond-Light';
+   src: url('SuisseIntlCond-Light/font.ttf');
+}
+@font-face {
+   font-family: 'SuisseIntlMono-Regular';
+   src: url('SuisseIntlMono-Regular/font.ttf');
+}
