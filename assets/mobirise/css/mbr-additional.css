@@ -93,7 +93,7 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  word-break: break-word;
+  word-break: normal;
 }
 .btn-sm {
   font-weight: 500;
