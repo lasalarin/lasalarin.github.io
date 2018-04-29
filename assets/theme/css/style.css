@@ -1,14 +1,12 @@
 .engine {
 	position: absolute;
 	text-indent: -2400px;
-	text-align: center;
+	text-align: left;
 	padding: 0;
 	top: 0;
 	left: -2400px;
 }/*!
- * Mobirise v4 theme (https://mobirise.com/)
- * Copyright 2017 Mobirise
- */
+
 section {
   background-color: #eeeeee; }
 
@@ -16,7 +14,7 @@ section,
 .container,
 .container-fluid {
   position: relative;
-  word-wrap: break-word; }
+  word-wrap: normal; }
 
 a.mbr-iconfont:hover {
   text-decoration: none; }
@@ -41,8 +39,8 @@ h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6,
 .display-1, .display-2, .display-3, .display-4 {
   line-height: 1;
-  word-break: break-word;
-  word-wrap: break-word; }
+  word-break: normal;
+  word-wrap: normal; }
 
 b, strong {
   font-weight: bold; }
