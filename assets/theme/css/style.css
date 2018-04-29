@@ -106,7 +106,8 @@ section {
 
 @media (max-width: 2400px) {
   .align-left, .align-center, .align-right, .mbr-section-btn, .mbr-section-title {
-    text-align: center; } }
+    text-align: center; 
+	letter-spacing: 5px;} }
 /*! Font-weight  */
 .mbr-light {
   font-weight: 300; }
