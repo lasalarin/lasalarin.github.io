@@ -1853,7 +1853,7 @@ body {
   background: #767676;
   z-index: 2;
   padding: 1rem 1rem;
-  word-break: break-word;
+  word-break: normal;
 }
 .cid-qQ0hqPXpiT .media-container-row .img-item .img-caption p {
   margin-bottom: 0;
@@ -2197,7 +2197,7 @@ body {
   color: #ffffff;
 }
 .cid-qPYJDhoLDg .mbr-section-title {
-  text-align: center;
+  text-align: left;
 }
 .cid-qPYJDhoLDg .mbr-timeline-title {
   color: #000000;
