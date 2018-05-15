@@ -28,6 +28,8 @@ github_username:  jekyll
   
   remote_theme: "mmistakes/minimal-mistakes"
   layout: splash
+  include: ["_pages"] 
+ 
  +minimal_mistakes_skin: "contrast"
   plugins:
     - jekyll-feed
