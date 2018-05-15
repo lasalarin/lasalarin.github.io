@@ -31,6 +31,7 @@ github_username:  jekyll
  +minimal_mistakes_skin: "contrast"
   plugins:
     - jekyll-feed
+    teaser: /master/images/008_octoberposter.png
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
