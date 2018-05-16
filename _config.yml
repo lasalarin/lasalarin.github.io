@@ -14,10 +14,11 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
+permalink: /blog/:year/:month/:day/:title 
 
 minimal_mistakes_skin: "contrast"
 
-    include: ["_pages"]
+ 
     
     defaults:
 
