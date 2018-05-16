@@ -31,10 +31,16 @@ plugins:
   - jekyll-feed
 
 minimal_mistakes_skin: "contrast"
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+
+    defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
