@@ -31,10 +31,8 @@ plugins:
   - jekyll-feed
 
 minimal_mistakes_skin: "contrast"
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+
+    include: ["_pages"]
     
     defaults:
   # _portfolio
