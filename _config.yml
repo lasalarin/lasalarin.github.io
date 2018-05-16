@@ -35,11 +35,7 @@ minimal_mistakes_skin: "contrast"
     include: ["_pages"]
     
     defaults:
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
+
       layout: splash
       author_profile: false
       share: true
