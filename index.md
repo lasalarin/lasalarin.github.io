@@ -1,13 +1,4 @@
 
-  defaults:
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
 ---
 title: "Let's try this one"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
@@ -21,6 +12,7 @@ sidebar:
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
+
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
