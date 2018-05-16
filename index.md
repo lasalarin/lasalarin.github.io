@@ -5,9 +5,9 @@ author_profile: true
 
   
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - url: /assets/images/001_logo_325.png
+    image_path: /assets/images/001_logo_325.png
+    alt: "Logo threee2fiveeeeee"
     title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: /assets/images/unsplash-gallery-image-2-th.jpg
