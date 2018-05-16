@@ -1,4 +1,6 @@
 ---
+layout: home
+author_profile: true
 header:
   teaser: path-to-teaser-image.jpg
 
