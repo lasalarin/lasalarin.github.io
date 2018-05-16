@@ -26,10 +26,7 @@ github_username:  jekyll
 
 markdown: kramdown
 
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-feed
-  
+remote_theme: "mmistakes/minimal-mistakes" 
   layout: splash
 
 # Exclude from processing.
