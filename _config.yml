@@ -31,14 +31,18 @@ plugins:
   - jekyll-feed
 
 minimal_mistakes_skin: "contrast"
-
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+    
     defaults:
   # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: splash
       author_profile: false
       share: true
 
