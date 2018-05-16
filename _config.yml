@@ -26,8 +26,9 @@ github_username:  jekyll
 
 markdown: kramdown
 
-remote_theme: "mmistakes/minimal-mistakes" 
-  layout: splash
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
