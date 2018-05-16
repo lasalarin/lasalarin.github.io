@@ -3,10 +3,6 @@ layout: splash
 classes: wide
 author_profile: true
 
-layout: splash
-classes:
-  - landing
-  - dark-theme 
   
 gallery:
   - url: /images/001_toresred.png
