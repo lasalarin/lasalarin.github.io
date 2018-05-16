@@ -31,6 +31,10 @@ plugins:
   - jekyll-feed
 
 minimal_mistakes_skin: "contrast"
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
