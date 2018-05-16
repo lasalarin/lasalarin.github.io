@@ -5,8 +5,8 @@ author_profile: true
 
   
 gallery:
-  - url: /assets/images/001_logo_325.png
-    image_path: /assets/images/001_logo_325.png
+  - url: https://github.com/lasalarin/lasalarin.github.io/blob/master/_site/assets/images/001_logo_325.png
+    image_path: https://github.com/lasalarin/lasalarin.github.io/blob/master/_site/assets/images/001_logo_325.png
     alt: "Logo threee2fiveeeeee"
     title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
