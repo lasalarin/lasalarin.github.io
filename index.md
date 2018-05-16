@@ -1,5 +1,7 @@
-
 ---
+header:
+  teaser: path-to-teaser-image.jpg
+
 title: "Let's try this one"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
