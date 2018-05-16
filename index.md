@@ -1,5 +1,13 @@
 
-  
+  defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 ---
 title: "Let's try this one"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
